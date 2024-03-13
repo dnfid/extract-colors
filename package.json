@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Namide/extract-colors.git"
+    "url": "git+https://github.com/dnfid/extract-colors.git"
   },
   "keywords": [
     "color",
@@ -35,7 +35,7 @@
   "author": "damien@doussaud.fr",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Namide/extract-colors/issues"
+    "url": "https://github.com/dnfid/extract-colors/issues"
   },
   "homepage": "https://extract-colors.namide.com",
   "files": [
